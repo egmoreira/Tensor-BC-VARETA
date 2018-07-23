@@ -6,6 +6,6 @@ BC-VARETA toolbox is based on the following publication:
 Gonzalez-Moreira, E., Paz-Linares, D., Martinez-Montes, E., Valdes-Hernandez, P., Bosch-Bayard, J., Bringas-Vega, ML., Valdes-Sosa, P., (2018), "Populational Super-Resolution Sparse M/EEG Sources and Connectivity Estimation", bioRxiv, 346569.
 
 Authors:
-Pedro A. Valdes-Sosa
-Deirel Paz-Linares
+Pedro A. Valdes-Sosa, 
+Deirel Paz-Linares, 
 Eduardo Gonzalez-Moreira
